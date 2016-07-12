@@ -2756,6 +2756,9 @@ ul.news--teaser-list li:hover {
   text-transform: uppercase;
 }
 
+/**
+ * Global footer.
+ */
 .footer {
   position: relative;
   height: auto;
